@@ -6,6 +6,6 @@ def key_for_min_value(name_hash)
     if "#{name_hash[key]}".length <=> "#{name_hash[key]}".length
       puts key
     end
-  else 
+  else "#{name_hash[key]}".length <=> "#{name_hash[key]}".length
   end
 end
