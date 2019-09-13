@@ -6,6 +6,6 @@ def key_for_min_value(name_hash)
     "#{name_hash[key]}".length <=> "#{name_hash[key]}".length
 
   end
-key_f
+key_for_min_value
 
 end
